@@ -5,6 +5,7 @@
 - <b>Python</b>
 - <p> Simple sample codes showing my abilites to code in the Python</P>
 - 
+  - [Game Bulls and Cows](https://github.com/radheyruparel/Game_Bulls_and_Cows)
   - [Contact Manager](https://github.com/radheyruparel/Contact_Manager)
 
 - <b>MATLAB</b>
