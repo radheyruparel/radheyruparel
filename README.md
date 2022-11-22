@@ -9,6 +9,8 @@
   - [Contact Manager](https://github.com/radheyruparel/Contact_Manager)
   - [Motion Parallax](https://github.com/radheyruparel/Motion_parallax)
   - [Game Mancala](https://github.com/radheyruparel/game_mancala)
+  - [Game Summarizer](https://github.com/radheyruparel/Game_Summarizer)
+  - [Simple Encrypter Decrypter code](https://github.com/radheyruparel/EncrypterDecrypter)
 
 
 - <b>MATLAB</b>
