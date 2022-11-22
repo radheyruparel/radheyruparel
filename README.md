@@ -3,6 +3,8 @@
 <h2>👨‍💻 Coding Portfolio</h2>
 
 - <b>Python</b>
+- <p> Simple sample codes showing my abilites to code in the Python</P>
+- 
   - [Contact Manager](https://github.com/radheyruparel/Contact_Manager)
 
 - <b>MATLAB</b>
