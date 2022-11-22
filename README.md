@@ -7,6 +7,7 @@
 
   - [Game Bulls and Cows](https://github.com/radheyruparel/Game_Bulls_and_Cows)
   - [Contact Manager](https://github.com/radheyruparel/Contact_Manager)
+  - [Motion Parallax](https://github.com/radheyruparel/Motion_parallax)
 
 
 - <b>MATLAB</b>
