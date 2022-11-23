@@ -10,10 +10,10 @@
   - [Contact Manager](https://github.com/radheyruparel/Contact_Manager)
   - [Motion Parallax](https://github.com/radheyruparel/Motion_parallax)
   - [Game Mancala](https://github.com/radheyruparel/game_mancala)
+  - [Inforgraphics using Text File](https://github.com/radheyruparel/inforgraphics_dicn)
   - [Game Bulls and Cows](https://github.com/radheyruparel/Game_Bulls_and_Cows)
   - [Simple Encrypter Decrypter code](https://github.com/radheyruparel/EncrypterDecrypter)
   - [Digital Assitant](https://github.com/radheyruparel/digital_assistant)
-  - [Inforgraphics using Text File](https://github.com/radheyruparel/inforgraphics_dicn)
   - [CSV Processor](https://github.com/radheyruparel/CSV_proccessor)
 
 - <b>MATLAB</b>
