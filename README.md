@@ -12,6 +12,7 @@
   - [Game Summarizer](https://github.com/radheyruparel/Game_Summarizer)
   - [Simple Encrypter Decrypter code](https://github.com/radheyruparel/EncrypterDecrypter)
   - [Digital Assitant](https://github.com/radheyruparel/digital_assistant)
+  - [Inforgraphics using Text File](https://github.com/radheyruparel/inforgraphics_dicn)
 
 
 
