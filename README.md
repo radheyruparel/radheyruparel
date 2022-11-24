@@ -17,4 +17,4 @@
   - [CSV Processor](https://github.com/radheyruparel/CSV_proccessor)
 
 - <b>MATLAB</b>
-  - [Simpe Modeling the spread of infectious diseases COVID-19](https://github.com/radheyruparel/simple_COVID_spreading)
+  - [Simple Modeling the spread of infectious diseases COVID-19](https://github.com/radheyruparel/simple_COVID_spreading)
