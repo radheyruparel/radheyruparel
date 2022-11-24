@@ -17,4 +17,4 @@
   - [CSV Processor](https://github.com/radheyruparel/CSV_proccessor)
 
 - <b>MATLAB</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Simpe Modeling the spread of infectious diseases COVID-19](https://github.com/radheyruparel/simple_COVID_spreading)
