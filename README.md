@@ -3,6 +3,15 @@
 <h2>👨‍💻 Coding Portfolio</h2>
 
 - <b>Python</b>
+   <p> Data Analysist Tools Used for Lab Reserach and Projects</P>
+   
+  - [Simple Linear Regression Analysis](https://github.com/radheyruparel/simple_linear_reg)
+  - [Simple Logistic Regression Analysis](https://github.com/radheyruparel/simple_log_reg)
+  - [Simple Cluster Analysis](https://github.com/radheyruparel/cluster_model)
+  - [Basic Neural Network on Linear Regression](https://github.com/radheyruparel/NN_linear_model)
+  - [Deep Neural Network Using MNIST Example](https://github.com/radheyruparel/neural_MNIST_example)
+
+
   <p> Simple sample codes showing my abilites to code in the Python</P>
 
   - [Game Summarizer](https://github.com/radheyruparel/Game_Summarizer)
