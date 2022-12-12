@@ -3,7 +3,7 @@
 <h2>👨‍💻 Coding Portfolio</h2>
 
 - <b>Python</b>
-   <p> Data Analyst Tools Used for Lab Reserach and Projects</P>
+   <p> Data Analyst Tools Used for Lab Research and Projects</P>
    
   - [Simple Linear Regression Analysis](https://github.com/radheyruparel/simple_linear_reg)
   - [Simple Logistic Regression Analysis](https://github.com/radheyruparel/simple_log_reg)
