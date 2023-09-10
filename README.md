@@ -1,6 +1,6 @@
 <h1>Radhey Ruparel</h1>
 
-<h2>👨‍💻 Coding Portfolio</h2>
+<h2>👨‍💻 Data Science Portfolio</h2>
 
 - <b>Python</b>
    <p> Data Analyst Tools Used for Lab Research and Projects</P>
