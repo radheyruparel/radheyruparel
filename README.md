@@ -9,7 +9,9 @@
  - [Sentiment Analysis Using Natural Language Processing for Amazon Reviews on Video Games](https://github.com/radheyruparel/Sentiment_Analysis_NLP_for_Amazon_reviews)
  - [Resume Categorization with Machine Learning and Natural Language Processing](https://github.com/radheyruparel/Resume_Categorization_with_ML_and_NLP)
  - [Stock Market Analysis And Forecasting Using Deep Learning](https://github.com/radheyruparel/Stock_Market_Forecasting_Deep_Learning)
- 
+
+- <b>MATLAB</b>
+  - [Simple Modeling the spread of infectious diseases COVID-19](https://github.com/radheyruparel/simple_COVID_model) 
 
 
  <b>Python</b>
@@ -21,9 +23,6 @@
   - [Basic Neural Network on Linear Regression](https://github.com/radheyruparel/NN_linear_model)
   - [Deep Neural Network Using MNIST Example](https://github.com/radheyruparel/neural_MNIST_example)
     
-- <b>MATLAB</b>
-  - [Simple Modeling the spread of infectious diseases COVID-19](https://github.com/radheyruparel/simple_COVID_model)
-
   <p> Simple sample codes showing my abilities to code in Python</P>
 
   - [Game Summarizer](https://github.com/radheyruparel/Game_Summarizer)
