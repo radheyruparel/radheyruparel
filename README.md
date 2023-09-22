@@ -1,7 +1,7 @@
 <h1>Radhey Ruparel</h1>
 
 <h2>👨‍💻 Data Science Portfolio</h2>
-- <b> Personal Data Projects </b>
+ <b> Personal Data Projects </b>
 
  - [Credit Score Classification with Machine Learning](https://github.com/radheyruparel/Credit_Score_Classification_ML)
  - [Health Insurance Premium Prediction with Machine Learning](https://github.com/radheyruparel/Health_Insurance_Premium_Prediction_with_ML)
@@ -11,7 +11,8 @@
  - [Stock Market Analysis And Forecasting Using Deep Learning](https://github.com/radheyruparel/Stock_Market_Forecasting_Deep_Learning)
  
 
-- <b>Python</b>
+
+ <b>Python</b>
    <p> Data Science Skill Demos</P>
    
   - [Simple Linear Regression Analysis](https://github.com/radheyruparel/simple_linear_reg)
@@ -19,7 +20,7 @@
   - [Simple Cluster Analysis](https://github.com/radheyruparel/cluster_model)
   - [Basic Neural Network on Linear Regression](https://github.com/radheyruparel/NN_linear_model)
   - [Deep Neural Network Using MNIST Example](https://github.com/radheyruparel/neural_MNIST_example)
-  - 
+    
 - <b>MATLAB</b>
   - [Simple Modeling the spread of infectious diseases COVID-19](https://github.com/radheyruparel/simple_COVID_model)
 
